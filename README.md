@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @minhkhanhpham
 - 👀 I’m interested in Data
-- 🌱 I graduated from FTU and have 1 year experience in Data field
+- 🌱 I graduated from FTU and had 1 year experience in Data field
 - 💞️ I’m looking for a new Data Analyst job
 - 📫 Reach me by minhkhanhpham1510@gmail.com
 
